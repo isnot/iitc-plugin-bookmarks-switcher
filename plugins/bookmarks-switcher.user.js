@@ -203,7 +203,7 @@ function wrapper(plugin_info) {
   window.plugin.bkmrks_switcher.setupCSS = function() {
     var css = '#bsUI_messages {font-size: 20px; color: red;} ' +
         '#bsUI_indicator {background: white; color: black; padding: 5px;} ' +
-        '.bsUI_slotstat {font-size: 36px; margin-right: 15px; vertical-align: -5px;} ' +
+        '.bsUI_slotstat {font-size: 30px; margin-right: 10px; vertical-align: -5px;} ' +
         '.bsUI_colorRed     {color: #ff3300;} ' +
         '.bsUI_colorBlue    {color: #b4ebfa;} ' +
         '.bsUI_colorYellow  {color: #ffff99;} ' +
