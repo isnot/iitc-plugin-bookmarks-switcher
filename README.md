@@ -1,2 +1,4 @@
 # iitc-plugin-bookmarks-switcher
-Bookmark
+Bookmark Swicher
+
+![sample](sample01.png "sample image")
