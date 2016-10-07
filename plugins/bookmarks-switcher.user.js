@@ -8,10 +8,10 @@
 // @updateURL      https://github.com/isnot/iitc-plugin-bookmarks-switcher/raw/master/plugins/bookmarks-switcher.user.js
 // @downloadURL    https://github.com/isnot/iitc-plugin-bookmarks-switcher/raw/master/plugins/bookmarks-switcher.user.js
 // @description    [iitc-plugins] bookmarks switcher
-// @include        https://www.ingress.com/intel*
-// @include        http://www.ingress.com/intel*
-// @match          https://www.ingress.com/intel*
-// @match          http://www.ingress.com/intel*
+// @include        https://*.ingress.com/intel*
+// @include        http://*.ingress.com/intel*
+// @match          https://*.ingress.com/intel*
+// @match          http://*.ingress.com/intel*
 // @grant          none
 // ==/UserScript==
 
